@@ -40,7 +40,7 @@ Programmā ir nepieciešams:
 
 ### Uzstādīšana un palaišana
 1. Python 3.x instalēšana
-2. Instalējiet nepieciešamās paketes, izmantojot komandu: pip install selenium
+2. Instalējiet nepieciešamās paketes, izmantojot komandu: **pip install selenium**
 3. lejupielādējiet Chrom un pārliecinieties, ka pārlūkprogramma darbojas
 4. Lejupielādējiet failu no github un atveriet to ar Visual Studio Code, jo Selenium bibliotēka nevēlas strādāt tieši ar github
 Passwords.txt varat arī lejupielādēt un atvērt tādā pašā veidā (programmu un failu ievietojiet vienā mapē). Failā jau ir dažas paroles un to kategorijas. Jums nav nepieciešams lejupielādēt failu ar parolēm, izmantojot programmu, jums tiks piedāvāts izveidot un ierakstīt paroles failā.
