@@ -1,1 +1,1 @@
-# Nosleguma-projekts
+# Nosleguma projekts
