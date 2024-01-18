@@ -1,4 +1,4 @@
-# Nosleguma projekts
+# Noslēguma projekts
 ## Password Generator and Strength Checker
 ### Apraksts
 
